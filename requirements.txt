@@ -1,1 +1,4 @@
-
+tk
+Pillow
+opencv-python
+ultralytics
